@@ -1,0 +1,88 @@
+Log file created at: 2024/08/04 19:58:52
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0804 19:58:52.805817 56149 SipLocalConfig.cpp:87] localip:127.0.1,localport:11300,sipid:11000000002000000001,sipip:127.0.1,sipport:7101
+I0804 19:58:52.808698 56149 SipLocalConfig.cpp:163] rand size:10000
+I0804 19:58:52.809515 56149 SipLocalConfig.cpp:108] num:1
+I0804 19:58:52.811187 56149 SipLocalConfig.cpp:126] info.poto:0
+I0804 19:58:52.812690 56149 SipLocalConfig.cpp:137] upNodeInfoList.SIZE:1
+I0804 19:58:52.812852 56149 ThreadPool.cpp:34] thread:139746987906816 was created
+I0804 19:58:52.813072 56149 ThreadPool.cpp:34] thread:139746979514112 was created
+I0804 19:58:52.815554 56149 ThreadPool.cpp:34] thread:139746971121408 was created
+I0804 19:58:52.815723 56149 ThreadPool.cpp:34] thread:139746962728704 was created
+I0804 19:58:52.815896 56149 ThreadPool.cpp:34] thread:139746954336000 was created
+I0804 19:58:52.816025 56149 ThreadPool.cpp:34] thread:139746945943296 was created
+I0804 19:58:52.816169 56149 ThreadPool.cpp:34] thread:139746937550592 was created
+I0804 19:58:52.816295 56149 ThreadPool.cpp:34] thread:139746929157888 was created
+I0804 19:58:52.816439 56149 ThreadPool.cpp:34] thread:139746920765184 was created
+I0804 19:58:52.816569 56149 ThreadPool.cpp:34] thread:139746912372480 was created
+I0804 19:58:52.817579 56149 SipCore.cpp:132] sip tcp:7101 udp:7101 running
+I0804 19:58:52.817759 56149 main.cpp:76] 127.0.1
+I0804 19:58:52.817942 56149 main.cpp:86] creat thread id139746827302656
+I0804 19:58:52.818007 56149 main.cpp:87] main thread id139746987910976
+I0804 19:58:52.817780 56160 SipCore.cpp:12] polling event thread start success
+I0804 19:58:53.318866 56160 SipRegister.cpp:7] code503
+I0804 19:58:55.825443 56160 SipRegister.cpp:7] code200
+I0804 19:59:50.829006 56160 SipRegister.cpp:7] code200
+I0804 20:00:45.831441 56160 SipRegister.cpp:7] code200
+I0804 20:01:40.833673 56160 SipRegister.cpp:7] code200
+I0804 20:02:35.835443 56160 SipRegister.cpp:7] code200
+I0804 20:02:40.001202 56160 SipCore.cpp:30] request msg coming....
+I0804 20:02:40.001471 56160 SipCore.cpp:39] rootType:Query
+I0804 20:02:40.001554 56160 SipCore.cpp:40] cmdValue:Catalog
+I0804 20:02:40.071733 58398 SipTaskBase.h:16] ~SipTaskBase
+I0804 20:03:30.838481 56160 SipRegister.cpp:7] code200
+I0804 20:04:25.843312 56160 SipRegister.cpp:7] code200
+I0804 20:05:20.846725 56160 SipRegister.cpp:7] code200
+I0804 20:06:15.849320 56160 SipRegister.cpp:7] code200
+I0804 20:07:10.852159 56160 SipRegister.cpp:7] code200
+I0804 20:08:05.854874 56160 SipRegister.cpp:7] code200
+I0804 20:09:00.858533 56160 SipRegister.cpp:7] code200
+I0804 20:09:55.860422 56160 SipRegister.cpp:7] code200
+I0804 20:10:50.863102 56160 SipRegister.cpp:7] code200
+I0804 20:11:29.439823 56160 SipCore.cpp:30] request msg coming....
+I0804 20:11:29.439955 56160 SipCore.cpp:39] rootType:Query
+I0804 20:11:29.440057 56160 SipCore.cpp:40] cmdValue:Catalog
+I0804 20:11:29.501996 63529 SipTaskBase.h:16] ~SipTaskBase
+I0804 20:11:45.865556 56160 SipRegister.cpp:7] code200
+I0804 20:12:40.868393 56160 SipRegister.cpp:7] code200
+I0804 20:13:35.871219 56160 SipRegister.cpp:7] code200
+I0804 20:14:30.873595 56160 SipRegister.cpp:7] code200
+I0804 20:15:25.876044 56160 SipRegister.cpp:7] code200
+I0804 20:16:20.879459 56160 SipRegister.cpp:7] code200
+I0804 20:17:15.881551 56160 SipRegister.cpp:7] code200
+I0804 20:18:10.884183 56160 SipRegister.cpp:7] code200
+I0804 20:19:05.887492 56160 SipRegister.cpp:7] code200
+I0804 20:20:00.889865 56160 SipRegister.cpp:7] code200
+I0804 20:20:55.893738 56160 SipRegister.cpp:7] code200
+I0804 20:21:50.897478 56160 SipRegister.cpp:7] code200
+I0804 20:22:45.901525 56160 SipRegister.cpp:7] code200
+I0804 20:23:40.903654 56160 SipRegister.cpp:7] code200
+I0804 20:24:35.906366 56160 SipRegister.cpp:7] code200
+I0804 20:25:30.909018 56160 SipRegister.cpp:7] code200
+I0804 20:26:25.911276 56160 SipRegister.cpp:7] code200
+I0804 20:27:20.914460 56160 SipRegister.cpp:7] code200
+I0804 20:28:15.917153 56160 SipRegister.cpp:7] code200
+I0804 20:29:10.919900 56160 SipRegister.cpp:7] code200
+I0804 20:30:05.923097 56160 SipRegister.cpp:7] code200
+I0804 20:31:00.925498 56160 SipRegister.cpp:7] code200
+I0804 20:31:55.928159 56160 SipRegister.cpp:7] code200
+I0804 20:32:50.930869 56160 SipRegister.cpp:7] code200
+I0804 20:33:45.934274 56160 SipRegister.cpp:7] code200
+I0804 20:34:40.936825 56160 SipRegister.cpp:7] code200
+I0804 20:35:35.940074 56160 SipRegister.cpp:7] code200
+I0804 20:36:30.942615 56160 SipRegister.cpp:7] code200
+I0804 20:37:25.944734 56160 SipRegister.cpp:7] code200
+I0804 20:38:20.946630 56160 SipRegister.cpp:7] code200
+I0804 20:39:15.949764 56160 SipRegister.cpp:7] code200
+I0804 20:40:10.952618 56160 SipRegister.cpp:7] code200
+I0804 20:41:05.955111 56160 SipRegister.cpp:7] code200
+I0804 20:42:00.958110 56160 SipRegister.cpp:7] code200
+I0804 20:42:55.960392 56160 SipRegister.cpp:7] code200
+I0804 20:43:44.978159 56160 SipCore.cpp:30] request msg coming....
+I0804 20:43:44.978327 56160 SipCore.cpp:39] rootType:Query
+I0804 20:43:44.978471 56160 SipCore.cpp:40] cmdValue:Catalog
+I0804 20:43:45.040426 82220 SipTaskBase.h:16] ~SipTaskBase
+I0804 20:43:50.963399 56160 SipRegister.cpp:7] code200
+I0804 20:44:45.965610 56160 SipRegister.cpp:7] code200
+I0804 20:45:40.968189 56160 SipRegister.cpp:7] code200

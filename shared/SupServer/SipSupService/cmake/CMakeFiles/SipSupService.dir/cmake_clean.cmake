@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/ConfReader.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/ECEventPoll.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/ECSocket.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/ECThread.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/EventMsgHandle.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/Gb28181Session.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/GetCatalog.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/GetPlamtInfo.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/GetRecordList.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/GlobalCtl.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/OpenStream.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/SipCore.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/SipDirectory.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/SipGbPlay.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/SipHeartBeat.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/SipLocalConfig.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/SipMessage.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/SipRecordList.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/SipRegister.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/SipTaskBase.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/TaskTimer.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/ThreadPool.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/XmlParser.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/h26x/h264_stream.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/h26x/h265_stream.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/h26x/hevc-annexbtomp4.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/h26x/hevc-mp4toannexb.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/h26x/mpeg4-annexbtomp4.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/h26x/mpeg4-avc.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/h26x/mpeg4-hevc.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/h26x/mpeg4-mp4toannexb.o"
+  "CMakeFiles/SipSupService.dir/mnt/hgfs/shared/SupServer/SipSupService/src/main.o"
+  "SipSupService"
+  "SipSupService.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/SipSupService.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

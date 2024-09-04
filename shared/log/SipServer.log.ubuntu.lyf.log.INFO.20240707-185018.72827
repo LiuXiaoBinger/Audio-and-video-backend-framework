@@ -1,0 +1,12 @@
+Log file created at: 2024/07/07 18:50:18
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0707 18:50:18.745106 72827 main.cpp:55] 11111111111111111111
+W0707 18:50:18.746449 72827 main.cpp:56] 22222222222222222222
+E0707 18:50:18.746670 72827 main.cpp:57] 33333333333333333333
+I0707 18:50:18.761191 72827 SipLocalConfig.cpp:110] localip:192.168.23.135,localport:11300,sipid:10000000002000000001,sipip:127.0.1,sipport:5061,sipRealm1000000000
+I0707 18:50:18.762013 72827 Common.h:25] getLock
+I0707 18:50:18.762300 72827 SipLocalConfig.cpp:174] rand size:10000
+I0707 18:50:18.762425 72827 Common.h:30] freeLocak
+I0707 18:50:18.764660 72827 SipLocalConfig.cpp:131] num:1
+I0707 18:50:18.766377 72827 SipLocalConfig.cpp:148] ubNodeInfoList.SIZE:1

@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/lyf/3rd/3rd/include",
+                "/home/lyf/3rd/3rd/include/pjsip",
+                "/home/lyf/3rd/3rd/include/jrtplib3",
+                "/home/lyf/3rd/3rd/include/jthread",
+                "/home/lyf/3rd/3rd/include/timyxml2",
+                "/home/lyf/3rd/3rd/include/libevent",
+                "/home/lyf/3rd/3rd/src/pjsip",
+                "/home/lyf/3rd/3rd/include/mpege",
+                "${workspaceFolder}/SipSubService/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

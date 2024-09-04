@@ -1,0 +1,6 @@
+Log file created at: 2024/07/07 18:21:54
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0707 18:21:54.235687 72675 main.cpp:54] 11111111111111111111
+W0707 18:21:54.237025 72675 main.cpp:55] 22222222222222222222
+E0707 18:21:54.237296 72675 main.cpp:56] 33333333333333333333

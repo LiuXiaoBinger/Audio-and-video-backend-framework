@@ -1,0 +1,28 @@
+Log file created at: 2024/08/04 00:17:43
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0804 00:17:43.247682 2504500 SipLocalConfig.cpp:87] localip:127.0.1,localport:11300,sipid:11000000002000000001,sipip:127.0.1,sipport:7101
+I0804 00:17:43.252266 2504500 SipLocalConfig.cpp:163] rand size:10000
+I0804 00:17:43.255231 2504500 SipLocalConfig.cpp:108] num:1
+I0804 00:17:43.258747 2504500 SipLocalConfig.cpp:126] info.poto:0
+I0804 00:17:43.262250 2504500 SipLocalConfig.cpp:137] upNodeInfoList.SIZE:1
+I0804 00:17:43.262652 2504500 ThreadPool.cpp:34] thread:140525055756032 was created
+I0804 00:17:43.263028 2504500 ThreadPool.cpp:34] thread:140525047363328 was created
+I0804 00:17:43.263803 2504500 ThreadPool.cpp:34] thread:140525038970624 was created
+I0804 00:17:43.264567 2504500 ThreadPool.cpp:34] thread:140525030577920 was created
+I0804 00:17:43.265120 2504500 ThreadPool.cpp:34] thread:140525022185216 was created
+I0804 00:17:43.265976 2504500 ThreadPool.cpp:34] thread:140525013792512 was created
+I0804 00:17:43.266287 2504500 ThreadPool.cpp:34] thread:140525005399808 was created
+I0804 00:17:43.266578 2504500 ThreadPool.cpp:34] thread:140524997007104 was created
+I0804 00:17:43.267004 2504500 ThreadPool.cpp:34] thread:140524988614400 was created
+I0804 00:17:43.267357 2504500 ThreadPool.cpp:34] thread:140524980221696 was created
+I0804 00:17:43.270805 2504500 SipCore.cpp:132] sip tcp:7101 udp:7101 running
+I0804 00:17:43.271468 2504500 main.cpp:76] 127.0.1
+I0804 00:17:43.271715 2504500 main.cpp:86] creat thread id140524962301696
+I0804 00:17:43.271988 2504500 main.cpp:87] main thread id140525055760192
+I0804 00:17:43.271827 2504511 SipCore.cpp:12] polling event thread start success
+I0804 00:17:43.272693 2504511 SipRegister.cpp:7] code503
+I0804 00:17:46.281217 2504511 SipRegister.cpp:7] code200
+I0804 00:18:41.287025 2504511 SipRegister.cpp:7] code200
+I0804 00:19:36.291371 2504511 SipRegister.cpp:7] code200
+I0804 00:20:31.295696 2504511 SipRegister.cpp:7] code200

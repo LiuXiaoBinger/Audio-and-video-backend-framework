@@ -1,0 +1,26 @@
+Log file created at: 2024/08/03 13:04:27
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0803 13:04:27.314002 2477941 SipLocalConfig.cpp:87] localip:127.0.1,localport:11300,sipid:11000000002000000001,sipip:127.0.1,sipport:7101
+I0803 13:04:27.317286 2477941 SipLocalConfig.cpp:163] rand size:10000
+I0803 13:04:27.318004 2477941 SipLocalConfig.cpp:108] num:1
+I0803 13:04:27.320201 2477941 SipLocalConfig.cpp:126] info.poto:0
+I0803 13:04:27.326092 2477941 SipLocalConfig.cpp:137] upNodeInfoList.SIZE:1
+I0803 13:04:27.326406 2477941 ThreadPool.cpp:34] thread:139833645119232 was created
+I0803 13:04:27.326704 2477941 ThreadPool.cpp:34] thread:139833636726528 was created
+I0803 13:04:27.328742 2477941 ThreadPool.cpp:34] thread:139833628333824 was created
+I0803 13:04:27.329044 2477941 ThreadPool.cpp:34] thread:139833619941120 was created
+I0803 13:04:27.331076 2477941 ThreadPool.cpp:34] thread:139833611548416 was created
+I0803 13:04:27.331756 2477941 ThreadPool.cpp:34] thread:139833603155712 was created
+I0803 13:04:27.332046 2477941 ThreadPool.cpp:34] thread:139833594763008 was created
+I0803 13:04:27.332422 2477941 ThreadPool.cpp:34] thread:139833586370304 was created
+I0803 13:04:27.332885 2477941 ThreadPool.cpp:34] thread:139833577977600 was created
+I0803 13:04:27.333184 2477941 ThreadPool.cpp:34] thread:139833569584896 was created
+I0803 13:04:27.335240 2477941 SipCore.cpp:132] sip tcp:7101 udp:7101 running
+I0803 13:04:27.335597 2477941 main.cpp:76] 127.0.1
+I0803 13:04:27.335964 2477952 SipCore.cpp:12] polling event thread start success
+I0803 13:04:27.336045 2477941 main.cpp:86] creat thread id139833551664896
+I0803 13:04:27.336395 2477941 main.cpp:87] main thread id139833645123392
+I0803 13:04:27.836880 2477952 SipRegister.cpp:7] code503
+I0803 13:04:30.840591 2477952 SipRegister.cpp:7] code503
+I0803 13:04:33.348191 2477952 SipRegister.cpp:7] code200

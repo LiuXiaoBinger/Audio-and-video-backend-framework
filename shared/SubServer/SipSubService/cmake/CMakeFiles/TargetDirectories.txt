@@ -1,0 +1,3 @@
+/mnt/hgfs/shared/SubServer/SipSubService/cmake/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/shared/SubServer/SipSubService/cmake/CMakeFiles/edit_cache.dir
+/mnt/hgfs/shared/SubServer/SipSubService/cmake/CMakeFiles/SipSubService.dir

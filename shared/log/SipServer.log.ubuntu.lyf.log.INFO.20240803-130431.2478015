@@ -1,0 +1,87 @@
+Log file created at: 2024/08/03 13:04:31
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0803 13:04:31.080356 2478015 SipLocalConfig.cpp:102] usr is wrongadmin
+E0803 13:04:31.083762 2478015 SipLocalConfig.cpp:110] pwd is wrong44444
+I0803 13:04:31.084362 2478015 SipLocalConfig.cpp:111] localip:192.168.67.130,localport:11300,sipid:10000000002000000001,sipip:127.0.1,sipport:5061,sipRealm1000000000
+I0803 13:04:31.086527 2478015 Common.h:26] getLock
+I0803 13:04:31.086928 2478015 SipLocalConfig.cpp:175] rand size:10000
+I0803 13:04:31.087221 2478015 Common.h:31] freeLocak
+I0803 13:04:31.089766 2478015 SipLocalConfig.cpp:132] num:1
+I0803 13:04:31.096869 2478015 SipLocalConfig.cpp:149] ubNodeInfoList.SIZE:1
+I0803 13:04:31.097297 2478015 ThreadPool.cpp:34] thread:140194395166464 was created
+I0803 13:04:31.097815 2478015 ThreadPool.cpp:34] thread:140194386773760 was created
+I0803 13:04:31.098122 2478015 ThreadPool.cpp:34] thread:140194378381056 was created
+I0803 13:04:31.098399 2478015 ThreadPool.cpp:34] thread:140194369988352 was created
+I0803 13:04:31.098683 2478015 ThreadPool.cpp:34] thread:140194361595648 was created
+I0803 13:04:31.098996 2478015 ThreadPool.cpp:34] thread:140194353202944 was created
+I0803 13:04:31.099422 2478015 ThreadPool.cpp:34] thread:140194344810240 was created
+I0803 13:04:31.099824 2478015 ThreadPool.cpp:34] thread:140194336417536 was created
+I0803 13:04:31.100162 2478015 ThreadPool.cpp:34] thread:140194328024832 was created
+I0803 13:04:31.100630 2478015 ThreadPool.cpp:34] thread:140194319632128 was created
+I0803 13:04:31.103083 2478015 SipCore.cpp:141] sip tcp:5061 udp:5061 running
+I0803 13:04:31.103819 2478015 main.cpp:80] 192.168.67.130
+I0803 13:04:31.104132 2478015 main.cpp:90] creat thread id140194301712128
+I0803 13:04:31.103890 2478026 SipCore.cpp:15] polling event thread start success
+I0803 13:04:31.107914 2478015 main.cpp:91] main thread id140194395170624
+I0803 13:04:33.344121 2478026 SipCore.cpp:32] request msg coming....
+I0803 13:04:33.344556 2478069 SipRegister.cpp:41] SipRegister::run
+I0803 13:04:33.344835 2478069 Common.h:26] getLock
+I0803 13:04:33.345067 2478069 Common.h:31] freeLocak
+I0803 13:04:33.345357 2478069 SipRegister.cpp:83] nonce:3c80051bce48d08ac503eddd4da4826b
+I0803 13:04:33.345579 2478069 SipRegister.cpp:94] opaque:ab76020483ee5bad135c034328dbb546
+I0803 13:04:33.345880 2478069 SipTaskBase.h:16] ~SipTaskBase
+I0803 13:04:33.346262 2478026 SipCore.cpp:32] request msg coming....
+I0803 13:04:33.346621 2478070 SipRegister.cpp:41] SipRegister::run
+I0803 13:04:33.346830 2478070 Common.h:26] getLock
+I0803 13:04:33.347019 2478070 Common.h:31] freeLocak
+I0803 13:04:33.347280 2478070 SipRegister.cpp:121] status_code:200
+I0803 13:04:33.347474 2478070 Common.h:26] getLock
+I0803 13:04:33.347736 2478070 Common.h:31] freeLocak
+I0803 13:04:33.348110 2478070 Common.h:26] getLock
+I0803 13:04:33.348372 2478070 Common.h:31] freeLocak
+I0803 13:04:33.348520 2478070 Common.h:26] getLock
+I0803 13:04:33.348712 2478070 Common.h:31] freeLocak
+I0803 13:04:33.348942 2478070 SipTaskBase.h:16] ~SipTaskBase
+I0803 13:04:37.342026 2478026 SipCore.cpp:32] request msg coming....
+I0803 13:04:37.342442 2478026 SipCore.cpp:50] rootType:Notify
+I0803 13:04:37.342850 2478026 SipCore.cpp:51] cmdValue:keepalive
+I0803 13:04:37.343212 2478125 SipHeartBeat.cpp:18] HeartBeatMessage
+I0803 13:04:37.343484 2478125 Common.h:26] getLock
+I0803 13:04:37.343716 2478125 Common.h:31] freeLocak
+I0803 13:04:37.343974 2478125 SipTaskBase.h:16] ~SipTaskBase
+I0803 13:04:47.343806 2478026 SipCore.cpp:32] request msg coming....
+I0803 13:04:47.344223 2478026 SipCore.cpp:50] rootType:Notify
+I0803 13:04:47.344506 2478026 SipCore.cpp:51] cmdValue:keepalive
+I0803 13:04:47.344856 2478196 SipHeartBeat.cpp:18] HeartBeatMessage
+I0803 13:04:47.345057 2478196 Common.h:26] getLock
+I0803 13:04:47.345369 2478196 Common.h:31] freeLocak
+I0803 13:04:47.345592 2478196 SipTaskBase.h:16] ~SipTaskBase
+I0803 13:04:51.642814 2478015 EventMsgHandle.cpp:55] accept client ip:192.168.67.1 port:33246 fd:12
+I0803 13:04:51.643333 2478015 EventMsgHandle.cpp:10] parseReadEvent
+I0803 13:04:51.643859 2478015 EventMsgHandle.cpp:17] command:1
+I0803 13:04:51.644310 2478016 Common.h:26] getLock
+I0803 13:04:51.644604 2478016 GetPlamtInfo.cpp:26] payLoadIn:{"SubDomain":[{"sipId":"11000000002000000001"}]}
+I0803 13:04:51.644910 2478016 Common.h:31] freeLocak
+E0803 13:04:51.645455 2478015 EventMsgHandle.cpp:48] connection closed
+I0803 13:04:57.345474 2478026 SipCore.cpp:32] request msg coming....
+I0803 13:04:57.345921 2478026 SipCore.cpp:50] rootType:Notify
+I0803 13:04:57.346196 2478026 SipCore.cpp:51] cmdValue:keepalive
+I0803 13:04:57.346570 2478289 SipHeartBeat.cpp:18] HeartBeatMessage
+I0803 13:04:57.346909 2478289 Common.h:26] getLock
+I0803 13:04:57.347352 2478289 Common.h:31] freeLocak
+I0803 13:04:57.347648 2478289 SipTaskBase.h:16] ~SipTaskBase
+I0803 13:05:07.347332 2478026 SipCore.cpp:32] request msg coming....
+I0803 13:05:07.347712 2478026 SipCore.cpp:50] rootType:Notify
+I0803 13:05:07.347939 2478026 SipCore.cpp:51] cmdValue:keepalive
+I0803 13:05:07.348300 2478380 SipHeartBeat.cpp:18] HeartBeatMessage
+I0803 13:05:07.348687 2478380 Common.h:26] getLock
+I0803 13:05:07.349000 2478380 Common.h:31] freeLocak
+I0803 13:05:07.349262 2478380 SipTaskBase.h:16] ~SipTaskBase
+I0803 13:05:17.349121 2478026 SipCore.cpp:32] request msg coming....
+I0803 13:05:17.349656 2478026 SipCore.cpp:50] rootType:Notify
+I0803 13:05:17.350024 2478026 SipCore.cpp:51] cmdValue:keepalive
+I0803 13:05:17.350452 2478473 SipHeartBeat.cpp:18] HeartBeatMessage
+I0803 13:05:17.350814 2478473 Common.h:26] getLock
+I0803 13:05:17.351347 2478473 Common.h:31] freeLocak
+I0803 13:05:17.351833 2478473 SipTaskBase.h:16] ~SipTaskBase

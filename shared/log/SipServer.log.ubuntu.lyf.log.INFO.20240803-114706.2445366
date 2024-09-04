@@ -1,0 +1,26 @@
+Log file created at: 2024/08/03 11:47:06
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0803 11:47:06.985384 2445366 SipLocalConfig.cpp:102] usr is wrongadmin
+E0803 11:47:06.990546 2445366 SipLocalConfig.cpp:110] pwd is wrong44444
+I0803 11:47:06.990803 2445366 SipLocalConfig.cpp:111] localip:192.168.1.5,localport:11300,sipid:10000000002000000001,sipip:127.0.1,sipport:5061,sipRealm1000000000
+I0803 11:47:06.992254 2445366 Common.h:26] getLock
+I0803 11:47:06.992619 2445366 SipLocalConfig.cpp:175] rand size:10000
+I0803 11:47:06.992923 2445366 Common.h:31] freeLocak
+I0803 11:47:06.993625 2445366 SipLocalConfig.cpp:132] num:1
+I0803 11:47:06.996964 2445366 SipLocalConfig.cpp:149] ubNodeInfoList.SIZE:1
+I0803 11:47:06.997242 2445366 ThreadPool.cpp:34] thread:140636140324608 was created
+I0803 11:47:06.997578 2445366 ThreadPool.cpp:34] thread:140636131931904 was created
+I0803 11:47:06.997879 2445366 ThreadPool.cpp:34] thread:140636123539200 was created
+I0803 11:47:06.998134 2445366 ThreadPool.cpp:34] thread:140636115146496 was created
+I0803 11:47:06.998427 2445366 ThreadPool.cpp:34] thread:140636106753792 was created
+I0803 11:47:06.998823 2445366 ThreadPool.cpp:34] thread:140636098361088 was created
+I0803 11:47:06.999099 2445366 ThreadPool.cpp:34] thread:140636089968384 was created
+I0803 11:47:06.999508 2445366 ThreadPool.cpp:34] thread:140636081575680 was created
+I0803 11:47:06.999796 2445366 ThreadPool.cpp:34] thread:140636073182976 was created
+I0803 11:47:07.000057 2445366 ThreadPool.cpp:34] thread:140636064790272 was created
+I0803 11:47:07.002058 2445366 SipCore.cpp:141] sip tcp:5061 udp:5061 running
+I0803 11:47:07.002440 2445366 main.cpp:80] 192.168.1.5
+I0803 11:47:07.002538 2445377 SipCore.cpp:15] polling event thread start success
+I0803 11:47:07.002727 2445366 main.cpp:90] creat thread id140636046870272
+I0803 11:47:07.003082 2445366 main.cpp:91] main thread id140636140328768

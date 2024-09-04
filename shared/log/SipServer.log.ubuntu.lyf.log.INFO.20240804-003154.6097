@@ -1,0 +1,39 @@
+Log file created at: 2024/08/04 00:31:54
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0804 00:31:54.366788  6097 SipLocalConfig.cpp:87] localip:127.0.1,localport:11300,sipid:11000000002000000001,sipip:127.0.1,sipport:7101
+I0804 00:31:54.417196  6097 SipLocalConfig.cpp:163] rand size:10000
+I0804 00:31:54.418761  6097 SipLocalConfig.cpp:108] num:1
+I0804 00:31:54.423664  6097 SipLocalConfig.cpp:126] info.poto:0
+I0804 00:31:54.432981  6097 SipLocalConfig.cpp:137] upNodeInfoList.SIZE:1
+I0804 00:31:54.433441  6097 ThreadPool.cpp:34] thread:140286375315200 was created
+I0804 00:31:54.433701  6097 ThreadPool.cpp:34] thread:140286366922496 was created
+I0804 00:31:54.434190  6097 ThreadPool.cpp:34] thread:140286358529792 was created
+I0804 00:31:54.434612  6097 ThreadPool.cpp:34] thread:140286350137088 was created
+I0804 00:31:54.434911  6097 ThreadPool.cpp:34] thread:140286341744384 was created
+I0804 00:31:54.435178  6097 ThreadPool.cpp:34] thread:140286333351680 was created
+I0804 00:31:54.435469  6097 ThreadPool.cpp:34] thread:140286324958976 was created
+I0804 00:31:54.435714  6097 ThreadPool.cpp:34] thread:140286316566272 was created
+I0804 00:31:54.436132  6097 ThreadPool.cpp:34] thread:140286308173568 was created
+I0804 00:31:54.436380  6097 ThreadPool.cpp:34] thread:140286299780864 was created
+I0804 00:31:54.454653  6097 SipCore.cpp:132] sip tcp:7101 udp:7101 running
+I0804 00:31:54.459820  6097 main.cpp:76] 127.0.1
+I0804 00:31:54.461423  6097 main.cpp:86] creat thread id140286281860864
+I0804 00:31:54.462253  6097 main.cpp:87] main thread id140286375319360
+I0804 00:31:54.462605  6108 SipCore.cpp:12] polling event thread start success
+I0804 00:31:54.463167  6108 SipRegister.cpp:7] code503
+I0804 00:31:57.474534  6108 SipRegister.cpp:7] code503
+I0804 00:32:00.478679  6108 SipRegister.cpp:7] code503
+I0804 00:32:03.491184  6108 SipRegister.cpp:7] code503
+I0804 00:32:06.497215  6108 SipRegister.cpp:7] code503
+I0804 00:32:09.501585  6108 SipRegister.cpp:7] code503
+I0804 00:32:12.881259  6108 SipRegister.cpp:7] code503
+I0804 00:32:15.885520  6108 SipRegister.cpp:7] code503
+I0804 00:32:18.890231  6108 SipRegister.cpp:7] code503
+I0804 00:32:21.894807  6108 SipRegister.cpp:7] code503
+I0804 00:32:24.898875  6108 SipRegister.cpp:7] code503
+I0804 00:32:27.906893  6108 SipRegister.cpp:7] code200
+I0804 00:33:22.912210  6108 SipRegister.cpp:7] code200
+I0804 00:34:17.917600  6108 SipRegister.cpp:7] code200
+I0804 00:35:12.922394  6108 SipRegister.cpp:7] code200
+I0804 00:36:52.808638  6108 SipRegister.cpp:7] code200

@@ -1,0 +1,29 @@
+﻿  GbClient.cpp
+e:\vms\shared\gbclient\gbclient\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vms\shared\gbclient\gbclient\gbclient.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+e:\vms\shared\gbclient\gbclient\gbclient.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+e:\vms\shared\gbclient\gbclient\gbclient.cpp(489): warning C4996: 'AVPicture::data': 被声明为已否决
+  e:\vms\shared\gbclient\gbclient\include\libavcodec\avcodec.h(2657): note: 参见“AVPicture::data”的声明
+e:\vms\shared\gbclient\gbclient\gbclient.cpp(490): warning C4996: 'AVPicture::data': 被声明为已否决
+  e:\vms\shared\gbclient\gbclient\include\libavcodec\avcodec.h(2657): note: 参见“AVPicture::data”的声明
+e:\vms\shared\gbclient\gbclient\gbclient.cpp(491): warning C4996: 'AVPicture::data': 被声明为已否决
+  e:\vms\shared\gbclient\gbclient\include\libavcodec\avcodec.h(2657): note: 参见“AVPicture::data”的声明
+e:\vms\shared\gbclient\gbclient\gbclient.cpp(492): warning C4996: 'AVPicture::linesize': 被声明为已否决
+  e:\vms\shared\gbclient\gbclient\include\libavcodec\avcodec.h(2659): note: 参见“AVPicture::linesize”的声明
+e:\vms\shared\gbclient\gbclient\gbclient.cpp(493): warning C4996: 'AVPicture::linesize': 被声明为已否决
+  e:\vms\shared\gbclient\gbclient\include\libavcodec\avcodec.h(2659): note: 参见“AVPicture::linesize”的声明
+e:\vms\shared\gbclient\gbclient\gbclient.cpp(494): warning C4996: 'AVPicture::linesize': 被声明为已否决
+  e:\vms\shared\gbclient\gbclient\include\libavcodec\avcodec.h(2659): note: 参见“AVPicture::linesize”的声明
+e:\vms\shared\gbclient\gbclient\gbclient.cpp(497): warning C4996: 'AVPicture::data': 被声明为已否决
+  e:\vms\shared\gbclient\gbclient\include\libavcodec\avcodec.h(2657): note: 参见“AVPicture::data”的声明
+e:\vms\shared\gbclient\gbclient\gbclient.cpp(356): warning C4996: 'av_register_all': 被声明为已否决
+  e:\vms\shared\gbclient\gbclient\include\libavformat\avformat.h(1955): note: 参见“av_register_all”的声明
+e:\vms\shared\gbclient\gbclient\gbclient.cpp(426): warning C4996: 'avcodec_decode_video2': 被声明为已否决
+  e:\vms\shared\gbclient\gbclient\include\libavcodec\avcodec.h(3096): note: 参见“avcodec_decode_video2”的声明
+e:\vms\shared\gbclient\gbclient\gbclient.cpp(485): warning C4996: 'avcodec_decode_video2': 被声明为已否决
+  e:\vms\shared\gbclient\gbclient\include\libavcodec\avcodec.h(3096): note: 参见“avcodec_decode_video2”的声明
+e:\vms\shared\gbclient\gbclient\gbclient.cpp(505): warning C4996: 'av_free_packet': 被声明为已否决
+  e:\vms\shared\gbclient\gbclient\include\libavcodec\packet.h(569): note: 参见“av_free_packet”的声明
+e:\vms\shared\gbclient\gbclient\gbclient.cpp(523): warning C4996: 'av_free_packet': 被声明为已否决
+  e:\vms\shared\gbclient\gbclient\include\libavcodec\packet.h(569): note: 参见“av_free_packet”的声明
+  GbClient.vcxproj -> E:\vms\shared\GbClient\x64\Debug\GbClient.exe

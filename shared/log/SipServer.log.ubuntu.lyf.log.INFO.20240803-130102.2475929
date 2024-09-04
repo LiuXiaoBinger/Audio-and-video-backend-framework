@@ -1,0 +1,33 @@
+Log file created at: 2024/08/03 13:01:02
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0803 13:01:02.979388 2475929 SipLocalConfig.cpp:102] usr is wrongadmin
+E0803 13:01:02.981678 2475929 SipLocalConfig.cpp:110] pwd is wrong44444
+I0803 13:01:02.981884 2475929 SipLocalConfig.cpp:111] localip:192.168.67.130,localport:11300,sipid:10000000002000000001,sipip:127.0.1,sipport:5061,sipRealm1000000000
+I0803 13:01:02.982973 2475929 Common.h:26] getLock
+I0803 13:01:02.983325 2475929 SipLocalConfig.cpp:175] rand size:10000
+I0803 13:01:02.983569 2475929 Common.h:31] freeLocak
+I0803 13:01:02.984297 2475929 SipLocalConfig.cpp:132] num:1
+I0803 13:01:02.989460 2475929 SipLocalConfig.cpp:149] ubNodeInfoList.SIZE:1
+I0803 13:01:02.989748 2475929 ThreadPool.cpp:34] thread:139932234229504 was created
+I0803 13:01:02.989959 2475929 ThreadPool.cpp:34] thread:139932225836800 was created
+I0803 13:01:02.990239 2475929 ThreadPool.cpp:34] thread:139932217444096 was created
+I0803 13:01:02.990496 2475929 ThreadPool.cpp:34] thread:139932209051392 was created
+I0803 13:01:02.990736 2475929 ThreadPool.cpp:34] thread:139932200658688 was created
+I0803 13:01:02.991019 2475929 ThreadPool.cpp:34] thread:139932192265984 was created
+I0803 13:01:02.991822 2475929 ThreadPool.cpp:34] thread:139932183873280 was created
+I0803 13:01:02.992354 2475929 ThreadPool.cpp:34] thread:139932175480576 was created
+I0803 13:01:02.992811 2475929 ThreadPool.cpp:34] thread:139932167087872 was created
+I0803 13:01:02.993065 2475929 ThreadPool.cpp:34] thread:139932158695168 was created
+I0803 13:01:02.995298 2475929 SipCore.cpp:141] sip tcp:5061 udp:5061 running
+I0803 13:01:02.995818 2475929 main.cpp:80] 192.168.67.130
+I0803 13:01:02.996057 2475929 main.cpp:90] creat thread id139932140775168
+I0803 13:01:02.996178 2475929 main.cpp:91] main thread id139932234233664
+I0803 13:01:02.995877 2475940 SipCore.cpp:15] polling event thread start success
+I0803 13:01:13.226096 2475929 EventMsgHandle.cpp:55] accept client ip:192.168.67.1 port:30934 fd:11
+I0803 13:01:13.226784 2475929 EventMsgHandle.cpp:10] parseReadEvent
+I0803 13:01:13.227059 2475929 EventMsgHandle.cpp:17] command:1
+I0803 13:01:13.227507 2475930 Common.h:26] getLock
+I0803 13:01:13.228053 2475930 GetPlamtInfo.cpp:26] payLoadIn:null
+I0803 13:01:13.228322 2475930 Common.h:31] freeLocak
+E0803 13:01:13.228677 2475929 EventMsgHandle.cpp:48] connection closed

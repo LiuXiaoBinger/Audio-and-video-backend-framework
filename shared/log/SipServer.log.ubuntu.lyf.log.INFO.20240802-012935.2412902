@@ -1,0 +1,28 @@
+Log file created at: 2024/08/02 01:29:35
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0802 01:29:35.800688 2412902 SipLocalConfig.cpp:102] usr is wrongadmin
+E0802 01:29:35.804428 2412902 SipLocalConfig.cpp:110] pwd is wrong44444
+I0802 01:29:35.804669 2412902 SipLocalConfig.cpp:111] localip:192.168.1.5,localport:11300,sipid:10000000002000000001,sipip:127.0.1,sipport:5061,sipRealm1000000000
+I0802 01:29:35.806030 2412902 Common.h:26] getLock
+I0802 01:29:35.806358 2412902 SipLocalConfig.cpp:175] rand size:10000
+I0802 01:29:35.806541 2412902 Common.h:31] freeLocak
+I0802 01:29:35.807174 2412902 SipLocalConfig.cpp:132] num:1
+I0802 01:29:35.813630 2412902 SipLocalConfig.cpp:149] ubNodeInfoList.SIZE:1
+I0802 01:29:35.814095 2412902 ThreadPool.cpp:34] thread:140295775405824 was created
+I0802 01:29:35.814333 2412902 ThreadPool.cpp:34] thread:140295767013120 was created
+I0802 01:29:35.814550 2412902 ThreadPool.cpp:34] thread:140295758620416 was created
+I0802 01:29:35.814766 2412902 ThreadPool.cpp:34] thread:140295750227712 was created
+I0802 01:29:35.815033 2412902 ThreadPool.cpp:34] thread:140295741835008 was created
+I0802 01:29:35.815301 2412902 ThreadPool.cpp:34] thread:140295733442304 was created
+I0802 01:29:35.815979 2412902 ThreadPool.cpp:34] thread:140295725049600 was created
+I0802 01:29:35.816296 2412902 ThreadPool.cpp:34] thread:140295716656896 was created
+I0802 01:29:35.816536 2412902 ThreadPool.cpp:34] thread:140295708264192 was created
+I0802 01:29:35.816886 2412902 ThreadPool.cpp:34] thread:140295699871488 was created
+I0802 01:29:35.819139 2412902 SipCore.cpp:141] sip tcp:5061 udp:5061 running
+I0802 01:29:35.819584 2412902 main.cpp:80] 192.168.1.5
+I0802 01:29:35.819698 2412913 SipCore.cpp:15] polling event thread start success
+I0802 01:29:35.819908 2412902 main.cpp:90] creat thread id140295681951488
+I0802 01:29:35.820431 2412902 main.cpp:91] main thread id140295775409984
+I0802 01:29:57.771116 2412902 EventMsgHandle.cpp:55] accept client ip:192.168.1.5 port:8843 fd:11
+E0802 01:30:18.991079 2412902 EventMsgHandle.cpp:48] connection closed
